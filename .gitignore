@@ -1,0 +1,11 @@
+/*
+!wp-content
+!.gitignore
+wp-content/*
+
+!wp-content/themes
+wp-content/themes/*
+!wp-content/themes/custom
+wp-content/themes/custom/node_modules
+wp-content/themes/custom/dist
+wp-content/themes/custom/yarn.lock
